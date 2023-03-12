@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 3f3bcfef972488a48bb141ced31e2096
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body
+    100002: door
+    100004: glass_back
+    100006: glass_door
+    100008: glass_front
+    100010: high_salon
+    100012: low_salon
+    100014: ressore_back
+    100016: ressore_front
+    100018: rulet
+    100020: //RootNode
+    100022: Wheel
+    100024: Wheel_001
+    100026: Wheel_002
+    100028: Wheel_003
+    100030: high salon
+    100032: ressore back
+    100034: ressore front
+    100036: steerWheel
+    100038: steerWheel stick
+    100040: Wheel.001
+    100042: Wheel.002
+    100044: Wheel.003
+    100046: door.001
+    100048: Wheel.004
+    400000: body
+    400002: door
+    400004: glass_back
+    400006: glass_door
+    400008: glass_front
+    400010: high_salon
+    400012: low_salon
+    400014: ressore_back
+    400016: ressore_front
+    400018: rulet
+    400020: //RootNode
+    400022: Wheel
+    400024: Wheel_001
+    400026: Wheel_002
+    400028: Wheel_003
+    400030: high salon
+    400032: ressore back
+    400034: ressore front
+    400036: steerWheel
+    400038: steerWheel stick
+    400040: Wheel.001
+    400042: Wheel.002
+    400044: Wheel.003
+    400046: door.001
+    400048: Wheel.004
+    2300000: body
+    2300002: door
+    2300004: glass_back
+    2300006: glass_door
+    2300008: glass_front
+    2300010: high_salon
+    2300012: low_salon
+    2300014: ressore_back
+    2300016: ressore_front
+    2300018: rulet
+    2300020: Wheel
+    2300022: Wheel_001
+    2300024: Wheel_002
+    2300026: Wheel_003
+    2300028: high salon
+    2300030: ressore back
+    2300032: ressore front
+    2300034: steerWheel
+    2300036: steerWheel stick
+    2300038: Wheel.001
+    2300040: Wheel.002
+    2300042: Wheel.003
+    2300044: door.001
+    2300046: Wheel.004
+    2300048: //RootNode
+    3300000: body
+    3300002: door
+    3300004: glass_back
+    3300006: glass_door
+    3300008: glass_front
+    3300010: high_salon
+    3300012: low_salon
+    3300014: ressore_back
+    3300016: ressore_front
+    3300018: rulet
+    3300020: Wheel
+    3300022: Wheel_001
+    3300024: Wheel_002
+    3300026: Wheel_003
+    3300028: high salon
+    3300030: ressore back
+    3300032: ressore front
+    3300034: steerWheel
+    3300036: steerWheel stick
+    3300038: Wheel.001
+    3300040: Wheel.002
+    3300042: Wheel.003
+    3300044: door.001
+    3300046: Wheel.004
+    3300048: //RootNode
+    4300000: ressore_back
+    4300002: glass_back
+    4300004: glass_door
+    4300006: glass_front
+    4300008: Wheel_003
+    4300010: Wheel_002
+    4300012: Wheel_001
+    4300014: rulet
+    4300016: high_salon
+    4300018: low_salon
+    4300020: ressore_front
+    4300022: door
+    4300024: Wheel
+    4300026: body
+    4300028: steerWheel stick
+    4300030: steerWheel
+    4300032: ressore back
+    4300034: Wheel.003
+    4300036: Wheel.002
+    4300038: Wheel.001
+    4300040: high salon
+    4300042: ressore front
+    4300044: Wheel.004
+    4300046: door.001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
